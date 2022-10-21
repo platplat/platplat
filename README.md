@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @platplat
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML and CSS
 
 <!---
