@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Áine
 
-I'm a career-changer building skills in **Data Engineering**. I design databases, automate data pipelines, and transform raw data into actionable insights. My goal is to turn complex data into structured, reliable systems that power business decisions.
+I'm a career-changer building skills in **Data Engineering**.
+<!--- I design databases, automate data pipelines, and transform raw data into actionable insights. My goal is to turn complex data into structured, reliable systems that power business decisions. --->
 
 ---
 <!---
