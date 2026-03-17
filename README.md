@@ -54,7 +54,6 @@ I'm a career-changer building skills in **Data Engineering**.
 
 ## 📜 Certifications & Courses
 
-- **CompTIA Data+** (currently enrolled)
 - **Microsoft Excel Expert** (MO-201)
 
 ---
