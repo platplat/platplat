@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Áine
 
-I'm a career-changer building skills in **Data Engineering**.
+I'm a career-changer building skills in **Software Development**.
 <!--- I design databases, automate data pipelines, and transform raw data into actionable insights. My goal is to turn complex data into structured, reliable systems that power business decisions. --->
 
 ---
@@ -54,7 +54,10 @@ I'm a career-changer building skills in **Data Engineering**.
 
 ## 📜 Certifications & Courses
 
-- **Microsoft Excel Expert** (MO-201)
+- **Relational Databases** (freecodecamp.org), October 2025
+  https://www.freecodecamp.org/certification/platplat/relational-database-v8
+- **Microsoft Excel Expert** (MO-201), September 2025
+  https://www.credly.com/badges/959055a3-bed7-471b-9562-fdf32f48de3c/public_url
 
 ---
 
