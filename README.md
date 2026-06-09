@@ -47,6 +47,7 @@ I'm a career-changer building skills in **Software Development**.
 
 ## 🎓 Education
 
+- (Prospective) **Higher Diploma in Science (Software Development)** – Starting September 2026, Maynooth University
 - **Bachelor of Engineering (Electronic Engineering with Computers)** – Graduated 2018, Maynooth University  
   Gained strong analytical and problem-solving skills, with hands-on experience in programming, digital systems, and computational thinking.
 
