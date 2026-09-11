@@ -1,7 +1,15 @@
 # Hi there! 👋 I'm Áine
 
-I'm a career-changer building skills in **Software Development**.
+I am an Electronic Engineer building skills in **Software Development**.
 <!--- I design databases, automate data pipelines, and transform raw data into actionable insights. My goal is to turn complex data into structured, reliable systems that power business decisions. --->
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Programming:** Java, Python, C++
+- **Version Control & Collaboration:** Git, GitHub  
+- **Databases & SQL:** PostgreSQL, relational database design
 
 ---
 <!---
