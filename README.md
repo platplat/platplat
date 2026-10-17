@@ -7,7 +7,7 @@ I am an Electronic Engineer building skills in **Software Development**.
 
 ## 🛠️ Skills & Tools
 
-- **Programming:** Java, Python, C++
+- **Programming:** Java, React.js, Python, C++
 - **Version Control & Collaboration:** Git, GitHub  
 - **Databases & SQL:** PostgreSQL, relational database design
 
