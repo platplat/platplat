@@ -19,19 +19,19 @@ I am an Electronic Engineer building skills in **Software Development**.
 - **Programming/Scripting:** Python (pandas, requests, SQLAlchemy), Bash 
 - **ETL & Automation:** Cron jobs, Airflow, Prefect (basic)  
 - **Data Warehousing Concepts:** Data modeling, schema design, optimized queries  
-- **Version Control & Collaboration:** Git, GitHub  
 - **Optional Cloud Exposure:** AWS S3, RDS, BigQuery  
 
 ---
+--->
 
 ## 📂 Featured Projects
 
-### Project 1: ETL Pipeline for COVID-19 Data
-- **Description:** Pulled daily COVID-19 data from a public API, cleaned, transformed, and loaded into PostgreSQL automatically.  
-- **Tech:** Python, pandas, PostgreSQL, cron  
-- **Highlight:** Designed normalized schema and automated daily refresh  
-- **GitHub:** [Link to repo]
+### EcoBites (Mobile Application Development)
+- **Description:** Designing a responsive React application to reduce campus food waste by connecting campus food providers with students.  
+- **Tech:** React.js, JavaScript, HTML, CSS 
+- **Repository:** [EcoBites](www.github.com/platplat/eco-bites/)
 
+<!---
 ### Project 2: Bike Rental Database
 - **Description:** Created a relational database for a bike rental shop dataset, including normalization and optimized queries.  
 - **Tech:** PostgreSQL, SQL  
@@ -49,9 +49,8 @@ I am an Electronic Engineer building skills in **Software Development**.
 - **Tech:** Python, AWS S3, RDS  
 - **Highlight:** Simple cloud pipeline with automated ETL  
 - **GitHub:** [Link to repo]
-
----
 --->
+---
 
 ## 🎓 Education
 
