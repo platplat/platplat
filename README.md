@@ -28,8 +28,8 @@ I am an Electronic Engineer building skills in **Software Development**.
 
 ### EcoBites (Mobile Application Development)
 - **Description:** Designing a responsive React application to reduce campus food waste by connecting campus food providers with students.  
-- **Library:** React.js
 - **Language:** JavaScript, HTML, CSS
+- **Library:** React.js
 
 <!---
 ### Project 2: Bike Rental Database
